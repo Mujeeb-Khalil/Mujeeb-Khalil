@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mujeeb Ur Rehman
+- 👋 Hi, I’m Mujeeb Ur Rehman
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning with Tensorflow
 - 📫 E-mail: mujeeb.memon2k@gmail.com
